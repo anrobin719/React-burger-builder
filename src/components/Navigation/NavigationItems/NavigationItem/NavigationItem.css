@@ -23,14 +23,13 @@
     .NavigationItem {
         margin: 0;
         display: flex;
-        width: auto;
         height: 100%;
+        width: auto;
         align-items: center;
     }
     
     .NavigationItem a {
         color: white;
-        width: auto;
         height: 100%;
         padding: 16px 10px;
         border-bottom: 4px solid transparent;
